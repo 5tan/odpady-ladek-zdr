@@ -1,8 +1,0 @@
-from: markdown
-to: html5
-standalone: true
-metadata:
-  title: "Harmonogram Wywozu Odpadów - Lądek-Zdrój"
-  lang: pl
-css:
-  - style.css

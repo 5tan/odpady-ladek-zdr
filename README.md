@@ -1,4 +1,6 @@
-# [Harmonogram Wywozu Odpadów, Gmina Lądek-Zdrój](https://5tan.github.io/odpady-ladek-zdr)
+# Harmonogram Wywozu Odpadów, Gmina Lądek-Zdrój
+
+ical feed przekonwertowano z PDF przy użyciu LLM.
 
 Źródło: [https://bip.ladek.pl/wp-content/uploads/2023/01/HARMONOGRAM-LADEK-ZDROJ-01.07.2026-30.09.2026.pdf](https://bip.ladek.pl/wp-content/uploads/2023/01/HARMONOGRAM-LADEK-ZDROJ-01.07.2026-30.09.2026.pdf)
 
@@ -11,7 +13,3 @@
 | **RADOCHÓW, TRZEBIESZOWICE** | [radochow_trzebieszowice.ics](radochow_trzebieszowice.ics) |
 | **SKRZYNKA** | [skrznka.ics](skrznka.ics) |
 | **KĄTY BYSTRZYCKIE** | [katy_bystrzyckie.ics](katy_bystrzyckie.ics) |
-
----
-
-Repozytorium: [5tan/odpady-ladek-zdr](https://github.com/5tan/odpady-ladek-zdr)
