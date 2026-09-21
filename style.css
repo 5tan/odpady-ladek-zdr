@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 2px solid #777;
+    padding: 6px 10px;
+}
+
+th {
+    background: #ddd;
+    border: 3px outset #eee;
+}
+
+td {
+    border: 2px inset #ddd;
+}
+
+#title-block-header {
+    display: none;
+}

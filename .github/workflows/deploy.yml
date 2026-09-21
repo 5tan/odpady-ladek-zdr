@@ -29,7 +29,7 @@ jobs:
         run: sudo apt-get install -y pandoc
 
       - name: Convert README to HTML
-        run: pandoc README.md -s -o index.html
+        run: pandoc --defaults pandoc.yaml README.md -s -o index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
