@@ -2,7 +2,9 @@
 
 ical feed przekonwertowano z PDF przy użyciu LLM.
 
-Źródło: [https://bip.ladek.pl/wp-content/uploads/2023/01/HARMONOGRAM-LADEK-ZDROJ-01.07.2026-30.09.2026.pdf](https://bip.ladek.pl/wp-content/uploads/2023/01/HARMONOGRAM-LADEK-ZDROJ-01.07.2026-30.09.2026.pdf)
+Źródła: 
+* [https://bip.ladek.pl/wp-content/uploads/2023/01/HARMONOGRAM-LADEK-ZDROJ-01.07.2026-30.09.2026.pdf](https://bip.ladek.pl/wp-content/uploads/2023/01/HARMONOGRAM-LADEK-ZDROJ-01.07.2026-30.09.2026.pdf)
+* [https://bip.ladek.pl/wp-content/uploads/2023/01/LADEK-ZDROJ-HARMONOGRAM-PAZDZIERNIK-2026.pdf](https://bip.ladek.pl/wp-content/uploads/2023/01/LADEK-ZDROJ-HARMONOGRAM-PAZDZIERNIK-2026.pdf)
 
 | obręb | ical feed |
 | -- | -- |
