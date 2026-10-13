@@ -13,5 +13,5 @@ ical feed przekonwertowano z PDF przy użyciu LLM.
 | **LUTYNIA, ORŁOWIEC, STÓJKÓW UŁĘŻE, WÓJTÓWKA** | [lutynia_orlowiec_stojkow_uleze_wojtowka.ics](lutynia_orlowiec_stojkow_uleze_wojtowka.ics) |
 | **KONRADÓW** | [konradow.ics](konradow.ics) |
 | **RADOCHÓW, TRZEBIESZOWICE** | [radochow_trzebieszowice.ics](radochow_trzebieszowice.ics) |
-| **SKRZYNKA** | [skrznka.ics](skrznka.ics) |
+| **SKRZYNKA** | [skrzynka.ics](skrzynka.ics) |
 | **KĄTY BYSTRZYCKIE** | [katy_bystrzyckie.ics](katy_bystrzyckie.ics) |
